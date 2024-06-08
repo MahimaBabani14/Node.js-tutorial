@@ -1,0 +1,2 @@
+Data read from input.txt: i m mahima 
+Date created Sat Jun 08 2024 14:45:11 GMT+0530 (India Standard Time)
